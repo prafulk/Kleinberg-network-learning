@@ -1,1 +1,4 @@
-f
+* Run on domains with > 1 reward
+* Run on continuous domain; motion planning problem
+* Theoretical results / motivation of extension to non-lattice worlds
+
