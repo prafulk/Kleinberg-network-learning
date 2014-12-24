@@ -1,6 +1,6 @@
 """
 RL Framework
-Authors: Arun Chaganty
+Authors: Praful Konduru
 Implements the Q-Learning algorithm
 """
 
